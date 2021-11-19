@@ -1,0 +1,17 @@
+catch_terms,recode_column,skill_name,category
+forklift,forklift,Forklift operation,Manual Labor
+hvac|ventilation,hvac|ventilation,HVAC expertise,Manual Labor
+adobe illustrator|illustrator,adobe illustrator|(?<! adobe)illustrator,Adobe Illustrator,Adobe Products
+adobe acrobat,adobe acrobat,Adobe Acrobat,Adobe Products
+adobe creative cloud,adobe creative cloud,Adobe Creative Cloud,Adobe Products
+microsoft suite,microsoft suite,Microsoft Suite,Microsoft Suite
+powerpoint,powerpoint,Microsoft PowerPoint,Microsoft Suite
+microsoft word,microsoft word,Microsoft Word,Microsoft Suite
+microsoft excel,microsoft excel,Microsoft Excel,Microsoft Suite
+microsoft onenote|onenote,microsoft onenote|(?<!microsoft )onenote,Microsoft OneNote,Microsoft Suite
+microsoft teams,microsoft teams,Microsoft Teams,Microsoft Suite
+cardiopulmonary resuscitation|cpr,cardiopulmonary resuscitation|cpr,Cardiopulmonary resuscitation,Medical
+comp tia|comptia,comp tia|comptia,CompTIA,Computing Skills
+comp tia a+|comptia a+,comp tia a+|comptia a+,CompTIA A+,Computing Skills
+sql|sql server|postgresql|oracle pl/sql|oracle pl sql|nosql|no sql|mysql|microsoft sql|transact sql|transact-sql|sql injection|sqlite|sqp plus,sql(?! [server|injection])|sql server|postgresql|oracle pl/sql|oracle pl sql|nosql|no sql|mysql|microsoft sql|transact sql|transact-sql|sql injection|sqlite|sqp plus,Database Skills,Computing Skills
+cloud computing,cloud computing,Cloud Computing,Computing Skills
